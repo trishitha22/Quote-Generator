@@ -1,0 +1,35 @@
+body{
+    margin: 0;
+    padding: 20px;
+}
+.container{
+    height: 300px;
+    width: 500px;
+    background-color: cadetblue;
+    margin: 200px;
+    margin-left: 550px;
+    border-radius: 25px;
+    padding: 20px;
+}
+.quote-box{
+    height: 150px;
+    padding: 20px;
+    background-color: aliceblue;
+    border-radius: 25px;
+}
+button{
+    height: 50px;
+    margin-top: 20px;
+    margin-left: 150px;
+    width: 200px;
+    border-radius: 15px;
+    font-size: 25px;
+    border: none;
+    background-color: bisque;
+}
+p{
+    font-size: 30px;
+    color: cadetblue;
+    margin: 0;
+    margin-top: 5px;
+}
